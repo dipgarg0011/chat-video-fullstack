@@ -1,18 +1,26 @@
+<h3 align="center">🚀 A Modern Real-Time Communication App — Chat instantly, connect seamlessly, and jump into video calls with a single click.</h3>
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
-
 Highlights:
 
-- 🌐 Real-time Messaging with Typing Indicators & Reactions
-- 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
-- 🔐 JWT Authentication & Protected Routes
-- 🌍 Language Exchange Platform with 32 Unique UI Themes
-- ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
-- 🧠 Global State Management with Zustand
-- 🚨 Error Handling (Frontend & Backend)
-- 🚀 Free Deployment
-- 🎯 Built with Scalable Technologies like Stream
-- ⏳ And much more!
+🌐 Real-time Chat with typing indicators & online status
 
+📹 1-on-1 Video Calls using WebRTC
+
+🔐 JWT Authentication & protected routes
+
+🎨 Clean & Responsive UI built with TailwindCSS
+
+⚡ Tech Stack: React + Express + MongoDB + Socket.io + TailwindCSS
+
+🧠 State Management with Zustand / Context
+
+🚨 Full Error Handling (Frontend & Backend)
+
+🚀 Easy Local Setup & Free Deployment
+
+📦 Scalable Folder Structure for both frontend & backend
+
+⏳ And much more!
 ---
 
 ## 🧪 .env Setup
